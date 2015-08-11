@@ -68,6 +68,14 @@ button a {
   padding-left: 25px;
 }
 
+.app {
+  display: inline-block;
+}
+
+.android {
+  margin-left: 10px;
+}
+
 div {
   /*border: 1px solid red;*/
 }
