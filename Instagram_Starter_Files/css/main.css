@@ -52,11 +52,16 @@ p {
   float: right;
   background-color: #1c5380;
   border-right: 2px;
+  margin-top: 15px;
 }
 
 button a {
   color: white;
+  text-decoration: none;
+  padding: 5px 10px;
 }
+
+
 
 .right_mid {
   background-image: url("../images/frame.png");
