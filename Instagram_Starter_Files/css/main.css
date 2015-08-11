@@ -10,12 +10,13 @@ body {
   background-color: #fff; 
   background-image: url("../images/bgtile.png");
   background-repeat: repeat-x;
-  margin: 0 auto;
 }
 
 .container {
-  padding: 30px;
+
 }
+
+
 
 .left_bar {
   display: inline-block;
@@ -29,8 +30,13 @@ body {
   vertical-align: top;
 }
 
+.right_top {
+  padding: 15px 0;
+}
+
 .right_mid {
   background-image: url("../images/frame.png");
+  padding: 30px;
 }
 
 div {
