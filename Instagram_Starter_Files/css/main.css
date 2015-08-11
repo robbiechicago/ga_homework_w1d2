@@ -24,5 +24,15 @@ body {
 
 .right_bar {
   display: inline-block;
-  width: 65%;
+  /*width: 65%;*/
+  width: 490px;
+  vertical-align: top;
+}
+
+.right_mid {
+  background-image: url("../images/frame.png");
+}
+
+div {
+  border: 1px solid red;
 }
