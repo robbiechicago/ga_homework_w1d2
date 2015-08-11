@@ -13,14 +13,26 @@ body {
 }
 
 .container {
-
 }
 
+.inner_container {
+  max-width: 850px;
+  margin: 90px auto;
+}
 
+h3 {
+  color: #06365f;
+  font-size: 20px;
+}
+
+p {
+  font-size: 14px;
+}
 
 .left_bar {
   display: inline-block;
-  width: 30%;
+  /*width: 30%;*/
+  width: 320px;
 }
 
 .right_bar {
@@ -28,17 +40,23 @@ body {
   /*width: 65%;*/
   width: 490px;
   vertical-align: top;
+  padding-left: 25px;
 }
 
 .right_top {
   padding: 15px 0;
 }
 
+.home_btn{
+  vertical-align: top;
+}
+
 .right_mid {
   background-image: url("../images/frame.png");
-  padding: 30px;
+  background-repeat: no-repeat;
+  padding: 25px;
 }
 
 div {
-  border: 1px solid red;
+  /*border: 1px solid red;*/
 }
