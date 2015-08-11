@@ -10,4 +10,19 @@ body {
   background-color: #fff; 
   background-image: url("../images/bgtile.png");
   background-repeat: repeat-x;
+  margin: 0 auto;
+}
+
+.container {
+  padding: 30px;
+}
+
+.left_bar {
+  display: inline-block;
+  width: 30%;
+}
+
+.right_bar {
+  display: inline-block;
+  width: 65%;
 }
