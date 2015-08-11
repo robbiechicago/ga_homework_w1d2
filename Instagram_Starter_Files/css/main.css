@@ -38,7 +38,7 @@ p {
 .right_bar {
   display: inline-block;
   /*width: 65%;*/
-  width: 490px;
+  width: 500px;
   vertical-align: top;
   padding-left: 25px;
 }
@@ -49,12 +49,23 @@ p {
 
 .home_btn{
   vertical-align: top;
+  float: right;
+  background-color: #1c5380;
+  border-right: 2px;
+}
+
+button a {
+  color: white;
 }
 
 .right_mid {
   background-image: url("../images/frame.png");
   background-repeat: no-repeat;
   padding: 25px;
+}
+
+.right_bottom {
+  padding-left: 25px;
 }
 
 div {
